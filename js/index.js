@@ -1,1 +1,2 @@
-console.log('Demo APP');
+console.log('Demo Added');
+console.log('Demo Init');
